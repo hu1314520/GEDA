@@ -1,6 +1,6 @@
 %% Source and Target are from Botwana
 clear;clc;
-load 2001may31.mat;
+load 2001may31.mat; %% data name
 
 f = fspecial('average',5);
 Data = imfilter(Data,f);
