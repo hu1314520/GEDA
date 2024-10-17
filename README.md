@@ -3,8 +3,6 @@ Graph Embedding and Distribution Adaptation for Domain Adaptation in Hyperspectr
 
 Paper web page: [Graph Embedding and Distribution Adaptation for Domain Adaptation in Hyperspectral Image Classification][(https://ieeexplore.ieee.org/document/9496229].
 
-Paper web page: [Two-Branch Attention Adversarial Domain Adaptation Network for Hyperspectral Image Classification]([(https://ieeexplore.ieee.org/document/9924236]).
-
 <p align='center'>
   <img src='figure/GEDA.png' width="800px">
 </p>
