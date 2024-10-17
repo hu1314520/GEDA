@@ -1,7 +1,7 @@
 # GEDA
 Graph Embedding and Distribution Adaptation for Domain Adaptation in Hyperspectral Image Classification
 
-Paper web page: [Graph Embedding and Distribution Adaptation for Domain Adaptation in Hyperspectral Image Classification]([(https://ieeexplore.ieee.org/document/9496229)]).
+Paper web page: [Graph Embedding and Distribution Adaptation for Domain Adaptation in Hyperspectral Image Classification]([https://ieeexplore.ieee.org/document/9496229]).
 
 <p align='center'>
   <img src='figure/GEDA.png' width="800px">
